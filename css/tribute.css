@@ -1,0 +1,67 @@
+/* Tag Selectors */
+body {
+  background-color: #e4d3cf;
+  margin: 0;
+}
+
+figure {
+  display: inline;
+  margin-right: 40px;
+}
+
+figcaption {
+  display: inline-block;
+  width: 20%;
+  position: relative;
+  right: 300px;
+  z-index: +1;
+  color: antiquewhite;
+  line-height: 2;
+}
+
+/* Class Selectors */
+.dice {
+  background-color: #ddffbc;
+  padding-bottom: 20px;
+}
+
+.dice-img {
+  margin-left: 30px;
+}
+
+.dice-roll {
+  padding: 30px;
+}
+
+.facts {
+  position: absolute;
+  top: 600px;
+  width: 90%;
+  right: 60px;
+}
+
+.listen-with-btn {
+  position: relative;
+  left: 550px;
+  bottom: 100px;
+  padding: 50px;
+}
+
+.mortzat-img {
+  width: 25%;
+}
+
+.myIntroWithMortzat {
+  width: 50%;
+  display: inline-block;
+  margin-left: 550px;
+  position: relative;
+  bottom: 400px;
+  line-height: 2;
+}
+
+.songs {
+  margin-left: 700px;
+  position: relative;
+  bottom: 300px;
+}
